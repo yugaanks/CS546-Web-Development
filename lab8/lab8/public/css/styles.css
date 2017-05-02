@@ -1,0 +1,59 @@
+.king {
+	text-align: center;
+	margin-top: 100px;
+	background: #ffd89b; 
+	background: -webkit-linear-gradient(to left, #ffd89b , #19547b);
+	background: linear-gradient(to left, #ffd89b , #19547b);
+}
+
+*, html{
+    color: #333333;
+	font-family: Georgia, Serif;
+	font-weight: bolder;    
+}
+
+h1 { color: #141823; font-family: 'Helvetica Neue', sans-serif; font-size: 100px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+
+.is-palindrome {
+	color: #0000FF;
+}
+
+.not-palindrome {
+	color: #FF4136;
+	font-weight: bold;
+}
+
+.listclass {
+	font: cursive;
+}
+
+#emailid {
+	font-weight: bolder;
+}
+
+.myButton {
+	background-color:#44c767;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+ul {
+	list-style-type: none;
+}
